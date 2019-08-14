@@ -27,7 +27,7 @@ post_date: 2017-12-03 05:09:17
 - [How do I contribute to Adapt Intent Parser?](#how-do-i-contribute-to-adapt-intent-parser)
   * [For Ubuntu, Debian and Raspbian based Linux](#for-ubuntu-debian-and-raspbian-based-linux)
   * [For Fedora / RPM based Linux](#for-fedora-rpm-based-linux)
-  * [For MacOS X](#for-macos-x)
+  * [For macOS](#for-macos)
 
 ## What is the Adapt Intent Parser?
 
@@ -176,7 +176,7 @@ $ cd ~/adapt
 PYTHONPATH=. python examples/multi_intent_parser.py "play some music by the clash"
 ```
 
-### For MacOS X
+### For macOS
 
 First, Xcode must be installed and Apple’s license agreement accepted.
 
